@@ -1,5 +1,5 @@
 # C_HumanBodyExplorationGame_PC
-## #2 인체를 탐험 하는 게임(PC)
+## #2. 인체를 탐험 하는 게임(PC)
 
 ## 1. 개발 계기
 
